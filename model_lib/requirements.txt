@@ -1,0 +1,24 @@
+# fastapi
+psycopg2-binary==2.8.6
+celery==5.1.2
+flower==1.0.0
+redis==3.5.3
+starlette==0.16.0
+
+#onnx
+torch
+onnxruntime-gpu==1.16
+eventlet
+
+pyyaml
+numpy
+pillow
+kombu
+requests
+opencv-python
+protobuf==3.20
+six
+scipy
+scikit-learn
+# faiss-cpu
+pymilvus
