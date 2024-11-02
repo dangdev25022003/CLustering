@@ -1,5 +1,4 @@
-#CLustering 
-#search embedding
+#CLustering,search embedding
 
 To find the number of dominant images in the folders, you can use the file: full_embedd_cluste.py.
 This file uses a clustering method combined with cosine similarity calculations for the leading images in each cluster.
